@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working with HTML, CSS, JavaScript, React.jS, Vue.js, Tailwind CSS, and Bootstrap and using them to build fun, creative Web Projects.
 
-- 🌱 I’m currently learning **more of React, PHP, Python, Node.js, Next.js, API's**
+- 🌱 I’m currently learning **more of React, PHP, Python, Node.js, Next.js & API's.**
 
-- 👯 I’m looking to collaborate on **Front-end Developer roles or UI/UX Designer roles**
+- 👯 I’m looking for full-time **Front-end Developer roles or UI/UX Designer roles.**
 
 - 📫 How to reach me --> **liamt.webdev@gmail.com**
 
