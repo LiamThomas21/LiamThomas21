@@ -27,9 +27,9 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://tailwindcss.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.mysql.com" target="_blank"> <img src="https://icons8.com/icon/UFXRpPFebwa2/mysql-logo"/> </a>
+    <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql.png"> </a>
 
-   
+   https://icons8.com/icon/bzf0DqjXFHIW/react
 </p>
 
 <br/>
