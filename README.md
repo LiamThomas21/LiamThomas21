@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **more of React, PHP, Python, Node.js, Next.js, API's**
 
-- 👯 I’m looking to collaborate on **Junior Front-end Developer roles or UI/UX Designer roles**
+- 👯 I’m looking to collaborate on **Front-end Developer roles or UI/UX Designer roles**
 
 - 📫 How to reach me --> **liamt.webdev@gmail.com**
 
