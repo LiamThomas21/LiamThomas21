@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Liam</h1>
-<h3 align="center">I'm an enthusiastic Web Developer & Designer from South Africa.</h3>
+<h3 align="center">I'm an enthusiastic Web Developer & UX/UI Designer from South Africa.</h3>
 
 
 ## 🙋‍♂️ About Me
