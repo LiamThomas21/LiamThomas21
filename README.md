@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working with HTML, CSS, JavaScript, React.jS, Vue.js, Tailwind CSS, and Bootstrap and using them to build fun, creative Web Projects.
+- 🔭 I’m currently working with HTML, CSS, JavaScript, React.jS, Tailwind CSS, and Bootstrap and using them to build fun, creative Web Projects.
 
 - 🌱 I’m currently learning **more of React, PHP, Python, Node.js, Next.js & API's.**
 
